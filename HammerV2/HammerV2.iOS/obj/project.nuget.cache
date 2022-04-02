@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiqlZQhXFzhtfVP5/Q+cHVyM7VySFMcxlBh/ETkwJYQpJD1FZiT02pKEansZKMlUqiZpZ8A//d0msiQbBZ0dcg==",
+  "success": true,
+  "projectFilePath": "/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2.iOS/HammerV2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/luisenrique/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

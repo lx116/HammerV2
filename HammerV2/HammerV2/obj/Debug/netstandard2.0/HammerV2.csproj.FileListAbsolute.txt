@@ -1,0 +1,14 @@
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/HammerV2.csprojAssemblyReference.cache
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/Views/AddProducts.xaml.g.cs
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/Views/ProductsListView.xaml.g.cs
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/HammerV2.AssemblyInfoInputs.cache
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/HammerV2.AssemblyInfo.cs
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/HammerV2.csproj.CoreCompileInputs.cache
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/bin/Debug/netstandard2.0/HammerV2.deps.json
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/bin/Debug/netstandard2.0/HammerV2.dll
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/bin/Debug/netstandard2.0/HammerV2.pdb
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/HammerV2.dll
+/Users/luisenrique/RiderProjects/HammerV2/HammerV2/HammerV2/obj/Debug/netstandard2.0/HammerV2.pdb

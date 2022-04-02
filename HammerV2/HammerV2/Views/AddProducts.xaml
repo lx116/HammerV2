@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    x:Class="HammerV2.Views.AddProducts"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                <Label Text="AGREGAR NUEVOS PRODUCTOS" />
+                <Entry Placeholder="Nombre" x:Name="Name" />
+                <Entry Placeholder="Precio" x:Name="Price" />
+                <Entry Placeholder="Descripcion" x:Name="Description" />
+                <Entry Placeholder="Cantidad" x:Name="Quantity" />
+
+                <Button Clicked="Button_OnClicked" Text="Enviar" />
+
+                <Label Text="0" x:Name="Counter" />
+
+                <Button Clicked="OnNextPageButtonClicked" Text="Ir a la lista" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
